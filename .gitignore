@@ -47,3 +47,19 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Raw sequencing data
+data/raw/*.fastq
+data/raw/*.fastq.gz
+data/trimmed/*.fastq
+data/trimmed/*.fastq.gz
+ 
+# Reference genome files
+reference/genome/*
+reference/annotation/*
+reference/index/*
+ 
+# Alignment files
+alignment/sam/*.sam
+alignment/bam/*.bam
+alignment/bam/*.bai
