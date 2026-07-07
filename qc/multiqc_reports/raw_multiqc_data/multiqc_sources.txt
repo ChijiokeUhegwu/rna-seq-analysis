@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR5364316_1	/home/chijioke/rna-seq-analysis/qc/raw_fastqc/SRR5364316_1_fastqc.zip
+FastQC	all_sections	SRR5364316_2	/home/chijioke/rna-seq-analysis/qc/raw_fastqc/SRR5364316_2_fastqc.zip
+FastQC	all_sections	SRR5364317_1	/home/chijioke/rna-seq-analysis/qc/raw_fastqc/SRR5364317_1_fastqc.zip
+FastQC	all_sections	SRR5364317_2	/home/chijioke/rna-seq-analysis/qc/raw_fastqc/SRR5364317_2_fastqc.zip
+FastQC	all_sections	SRR5364318_1	/home/chijioke/rna-seq-analysis/qc/raw_fastqc/SRR5364318_1_fastqc.zip
+FastQC	all_sections	SRR5364318_2	/home/chijioke/rna-seq-analysis/qc/raw_fastqc/SRR5364318_2_fastqc.zip
+FastQC	all_sections	SRR5364321_1	/home/chijioke/rna-seq-analysis/qc/raw_fastqc/SRR5364321_1_fastqc.zip
+FastQC	all_sections	SRR5364321_2	/home/chijioke/rna-seq-analysis/qc/raw_fastqc/SRR5364321_2_fastqc.zip
+FastQC	all_sections	SRR5364323_1	/home/chijioke/rna-seq-analysis/qc/raw_fastqc/SRR5364323_1_fastqc.zip
+FastQC	all_sections	SRR5364323_2	/home/chijioke/rna-seq-analysis/qc/raw_fastqc/SRR5364323_2_fastqc.zip
+FastQC	all_sections	SRR5364330_1	/home/chijioke/rna-seq-analysis/qc/raw_fastqc/SRR5364330_1_fastqc.zip
+FastQC	all_sections	SRR5364330_2	/home/chijioke/rna-seq-analysis/qc/raw_fastqc/SRR5364330_2_fastqc.zip

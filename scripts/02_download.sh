@@ -11,7 +11,14 @@ THREADS=3
  
 mkdir -p $OUTDIR
  
-while read SRR; do
+while read -r SRR; do
+
+    if [[ -f "$OUTDIR/${SRR}_1.fastq.gz" && \
+	  -f "$OUTDIR/${SRR}_2.fastq.gz" ]]; then
+	echo "Skipping $SRR (already processed)"
+	continue
+    fi
+
     echo '=============================='
     echo 'Downloading: '$SRR
     echo '=============================='

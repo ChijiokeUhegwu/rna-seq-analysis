@@ -16,6 +16,7 @@ export REF_INDEX_DIR="$PROJECT_DIR/reference/index"
 # 3. Quality Control (QC) Reports
 export QC_RAW_DIR="$PROJECT_DIR/qc/raw_fastqc"
 export QC_TRIMMED_DIR="$PROJECT_DIR/qc/trimmed_fastqc"
+export QC_MULTIQC="$PROJECT_DIR/qc/multiqc_reports"
 
 # 4. Alignment Outputs
 export ALIGN_SAM_DIR="$PROJECT_DIR/alignment/sam"
