@@ -63,3 +63,11 @@ reference/index/*
 alignment/sam/*.sam
 alignment/bam/*.bam
 alignment/bam/*.bai
+
+# test files
+test/test_R1.fastq
+test/test_R2.fastq
+qc/raw_fastqc/*.html
+qc/raw_fastqc/*.zip
+qc/multiqc_reports/*
+test/test.sam

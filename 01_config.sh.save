@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+
+# Define the main project directory as an environment variable
+export PROJECT_DIR="/home/chijioke/16S_nepal_AMR"
+
+# Define standard sub-directories for the 16S/QIIME2 pipeline
+export SCRIPTS_DIR="$PROJECT_DIR/scripts"
+export RAWDATA_DIR="$PROJECT_DIR/data/raw"
+export METADATA_DIR="$PROJECT_DIR/data/metadata"
+export ARTIFACTS_DIR="$PROJECT_DIR/qiime2_artifacts"
+export TAXONOMY_DIR="$PROJECT_DIR/taxonomy"
+export QCREPORTS_DIR="$PROJECT_DIR/qc_reports"
+export RESULTS_DIR="$PROJECT_DIR/results"
+
+# Automatically create directories if they don't exist yet
+mkdir -p "$SCRIPTS_DIR" \
+         "$RAWDATA_DIR" \
+         "$METADATA_DIR" \
+         "$ARTIFACTS_DIR" \
+         "$TAXONOMY_DIR" \
+         "$QCREPORTS_DIR" \
+         "$RESULTS_DIR"
+
+echo "========================================================="
+echo " Environment variables configured for 16S_nepal_AMR"
+echo " Project root: $PROJECT_DIR"
+echo "========================================================="

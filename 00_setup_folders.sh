@@ -1,5 +1,5 @@
 #!/bin/bash
-# Run this from inside the cloned rnaseq-training/ directory
+# Set up project folders inside project directory
  
 mkdir -p data/raw data/trimmed data/metadata
 mkdir -p reference/genome reference/annotation reference/index

@@ -1,7 +1,7 @@
-SampleID,Condition,Replicate
-SRR5364316,Control,1
-SRR5364317,Control,2
-SRR5364318,FluD4,1
-SRR5364321,FluD4,2
-SRR5364323,FluD8,1
-SRR5364330,FluD8,2
+Run,AGE,Assay Type,AvgSpotLen,Bases,BioProject,BioSample,Bytes,Center Name,Consent,DATASTORE filetype,DATASTORE provider,DATASTORE region,Experiment,gender,GEO_Accession (exp),infection,Instrument,LibraryLayout,LibrarySelection,LibrarySource,mouse_id,Organism,Platform,ReleaseDate,Sample Name,source_name,SRA Study,strain,time,tissue,create_date,version
+SRR5364316,8 weeks,RNA-Seq,200,9099898200,PRJNA379959,SAMN06624306,2903831980,GEO,public,"fastq,run.zq,sra","gs,ncbi,s3","gs.us-east1,ncbi.public,s3.us-east-1",SRX2659761,female,GSM2545337,Non-Infected,Illumina HiSeq 2500,PAIRED,cDNA,TRANSCRIPTOMIC,9,Mus musculus,ILLUMINA,2017-06-14T00:00:00Z,GSM2545337,"Cerebellum\, Day 0 (Non-Infected)",SRP102241,C57BL/6,Day 0,Cerebellum,2017-03-21T14:23:00Z,1
+SRR5364317,8 weeks,RNA-Seq,200,8572318400,PRJNA379959,SAMN06624254,2743664100,GEO,public,"fastq,run.zq,sra","gs,ncbi,s3","gs.us-east1,ncbi.public,s3.us-east-1",SRX2659762,female,GSM2545338,Non-Infected,Illumina HiSeq 2500,PAIRED,cDNA,TRANSCRIPTOMIC,10,Mus musculus,ILLUMINA,2017-06-14T00:00:00Z,GSM2545338,"Cerebellum\, Day 0 (Non-Infected)",SRP102241,C57BL/6,Day 0,Cerebellum,2017-03-21T14:46:00Z,1
+SRR5364318,8 weeks,RNA-Seq,200,8782741400,PRJNA379959,SAMN06624255,2804938564,GEO,public,"fastq,run.zq,sra","gs,ncbi,s3","gs.us-east1,ncbi.public,s3.us-east-1",SRX2659763,female,GSM2545339,Influenza A,Illumina HiSeq 2500,PAIRED,cDNA,TRANSCRIPTOMIC,15,Mus musculus,ILLUMINA,2017-06-14T00:00:00Z,GSM2545339,"Cerebellum\, Day 4",SRP102241,C57BL/6,Day 4,Cerebellum,2017-03-21T14:39:00Z,1
+SRR5364321,8 weeks,RNA-Seq,200,8622176000,PRJNA379959,SAMN06624257,2737435782,GEO,public,"fastq,run.zq,sra","gs,ncbi,s3","gs.us-east1,ncbi.public,s3.us-east-1",SRX2659766,female,GSM2545342,Influenza A,Illumina HiSeq 2500,PAIRED,cDNA,TRANSCRIPTOMIC,5,Mus musculus,ILLUMINA,2017-06-14T00:00:00Z,GSM2545342,"Cerebellum\, Day 8",SRP102241,C57BL/6,Day 8,Cerebellum,2017-03-21T14:28:00Z,1
+SRR5364323,8 weeks,RNA-Seq,200,9144281800,PRJNA379959,SAMN06624261,2925703694,GEO,public,"fastq,run.zq,sra","gs,ncbi,s3","gs.us-east1,ncbi.public,s3.us-east-1",SRX2659768,female,GSM2545344,Influenza A,Illumina HiSeq 2500,PAIRED,cDNA,TRANSCRIPTOMIC,22,Mus musculus,ILLUMINA,2017-06-14T00:00:00Z,GSM2545344,"Cerebellum\, Day 4",SRP102241,C57BL/6,Day 4,Cerebellum,2017-03-21T14:28:00Z,1
+SRR5364330,8 weeks,RNA-Seq,200,10045939400,PRJNA379959,SAMN06624297,3200818132,GEO,public,"fastq,run.zq,sra","gs,ncbi,s3","gs.us-east1,ncbi.public,s3.us-east-1",SRX2659775,female,GSM2545351,Influenza A,Illumina HiSeq 2500,PAIRED,cDNA,TRANSCRIPTOMIC,16,Mus musculus,ILLUMINA,2017-06-14T00:00:00Z,GSM2545351,"Cerebellum\, Day 8",SRP102241,C57BL/6,Day 8,Cerebellum,2017-03-21T14:26:00Z,1
